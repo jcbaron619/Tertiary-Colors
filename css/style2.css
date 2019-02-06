@@ -1,0 +1,68 @@
+body
+{
+	height:1500px;
+}
+
+.header
+{
+	width:650px;
+	margin:auto;
+	text-align:center;
+	font-family:'Oswald';
+	font-size:40px;
+}
+
+.blockone
+{
+	width:200px;
+	height:200px;
+	background-color:yellow;
+	margin:auto;
+}
+
+.yellow
+{
+	position:absolute;
+	top:250px;
+	left:715px;
+	font-family:'Oswald';
+	font-size:40px;
+}
+
+.middler
+{
+	width:650px;
+	margin:auto;
+	text-align:center;
+	font-family:'Oswald';
+	font-size:40px;
+}
+
+.blocktwo
+{
+	width:200px;
+	height:200px;
+	background-color:orange;
+	margin:auto;
+}
+
+.orange
+{
+	position:absolute;
+	top:585px;
+	left:710px;
+	font-family:'Oswald';
+	font-size:40px;
+}
+
+.home-image
+{
+	width:100px;
+	height:100px;
+	position:absolute;
+	top:107%;
+	left:47%;
+}
+
+
+
