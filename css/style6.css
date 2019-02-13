@@ -1,0 +1,78 @@
+body
+{
+	height:1500px;
+}
+
+.main-container
+{
+	width:375px;
+	height:667px;
+	border:1px solid black;
+}
+
+.header
+{
+	width:360px;
+	padding:10px;
+	margin:auto;
+	text-align:center;
+	font-family:'Oswald';
+	font-size:30px;
+}
+
+.blockone
+{
+	width:150px;
+	height:150px;
+	background-color:blue;
+	margin:auto;
+}
+
+.blue
+{
+	position:absolute;
+	top:195px;
+	left:165px;
+	font-family:'Oswald';
+	font-size:40px;
+	color:white;
+}
+
+.middler
+{
+	width:375px;
+	margin:auto;
+	text-align:center;
+	font-family:'Oswald';
+	font-size:40px;
+}
+
+.blocktwo
+{
+	width:150px;
+	height:150px;
+	background-color:purple;
+	margin:auto;
+}
+
+.violet
+{
+	position:absolute;
+	top:478px;
+	left:155px;
+	font-family:'Oswald';
+	font-size:40px;
+	color:white;
+}
+
+.home-image
+{
+	width:75px;
+	height:75px;
+	position:absolute;
+	top:600px;
+	left:300px;
+}
+
+
+
